@@ -1,5 +1,5 @@
 %---------------------------------
-% Problem 2 HW 2
+% Bayesian Spam Filtering
 % Author: Daniel Felipe Otero Leon
 %---------------------------------
 
