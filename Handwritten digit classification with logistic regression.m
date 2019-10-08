@@ -1,5 +1,5 @@
 %---------------------------------
-% Problem 4 HW 2
+% Handwritten digit classification with logistic regression
 % Author: Daniel Felipe Otero Leon
 %---------------------------------
 
